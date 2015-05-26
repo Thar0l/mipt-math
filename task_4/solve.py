@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+'''
+Based on https://github.com/ncos/hometasks/tree/master/CompMath_II_term/task_1
+'''
 import argparse
 import numpy
 import matplotlib.pyplot
